@@ -2,7 +2,7 @@
 
 Το ημερολόγιο της οικοδομής σου: εργασίες, πληρωμές, πρόγραμμα, φωτογραφίες προόδου.
 
-**Τελευταία έκδοση: v3.37** — [κατέβασε το αρχείο](https://raw.githubusercontent.com/stelliossteven-dev/themelio-app/main/themelio-v3.37.apk)
+**Τελευταία έκδοση: v3.38** — [κατέβασε το αρχείο](https://raw.githubusercontent.com/stelliossteven-dev/themelio-app/main/themelio-v3.38.apk)
 
 ## Εγκατάσταση
 
